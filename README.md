@@ -18,7 +18,7 @@ when you input username as "wenzhuang" and password as "123",then click on POST 
 ![][3]
 
 
-when you input a username that does not equels "wenzhuang" or a password does not equels "123",then you click on the POST button,there will be a message says that you have failed to pass the verication.
+when you input a username that does not equels "wenzhuang" or a password does not equels "123",then you click on the POST button,there will be a message says that you have failed to pass the verification.
 
 ![][4]
 
